@@ -3488,30 +3488,7 @@
 
                 "controls": [
                   {
-                    "more_servers_label@play.world_list_label_panel": {
-                      "$label_text": "networkWorld.more_servers",
-                      "bindings": [
-                        {
-                          "binding_name": "#servers_grid_visible",
-                          "binding_name_override": "#visible"
-                        }
-                      ]
-                    }
-                  },
-                  {
                     "more_servers_grid@play.more_servers_grid": {}
-                  },
-                  {
-                    "padding_3": {
-                      "type": "panel",
-                      "size": [ "100%", 2 ],
-                      "bindings": [
-                        {
-                          "binding_name": "#servers_grid_visible",
-                          "binding_name_override": "#visible"
-                        }
-                      ]
-                    }
                   }
                 ]
               }
