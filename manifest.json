@@ -1,7 +1,7 @@
 {
 	"format_version": 1,
 	"header": {
-		"description": "[PATCH] Remove Remove featured servers",
+		"description": "[PATCH] Remove featured servers",
 		"name": "RemoveFeaturedServersPack",
 		"uuid": "92b76f4a-8453-476d-b2f5-56aa8ee14155",
 		"version": [0, 0, 1],
